@@ -2,6 +2,7 @@
 Avaconda https://www.continuum.io
 IDE      https://www.jetbrains.com/pycharm
 https://github.com/scutan90/DeepLearning-500-questions
+Git guide chinese version: https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
 Git/Github使用中的一些问题：
 一、 如题在命令行中输入 git commit '.'时没有加入-m，会自动出来一个让填写提交说明的窗口,
