@@ -1,10 +1,15 @@
 Avaconda https://www.continuum.io
 IDE      https://www.jetbrains.com/pycharm
 
+Git/Github使用中的一些问题：
+一、 如题在命令行中输入 git commit '.'时没有加入-m，会自动出来一个让填写提交说明的窗口,
+     以下是解决的操作步骤，
+1.摁键盘i,最下面有所变化
+2.此时光标在最上面，输入要替提交的说明'comment',嗯Esc,然后输入:,光标跑到了最下面
+3.输入wq之后，摁回车即可，就要回到了原始的命令行界面
 
-������������������ git commit '.'ʱû�м���-m�����Զ�����һ������д�ύ˵���Ĵ���,��������β���
+二、git push到Github时提示permission denied，可能是需要设置SSH KEY.
+    许多 Git 服务器都使用 SSH 公钥进行认证。 为了向 Git 服务器提供 SSH 公钥，如果某系统用户尚未拥有密钥，必须事先为其生成一份。 这个过程在所有操作系统上都是相似的。 首先，你需要确认自己是否已经拥有密钥。默认情况下，用户的 SSH 密钥存储在其 ~/.ssh 目录下。
+    我们需要寻找一对以 id_dsa 或 id_rsa 命名的文件，其中一个带有 .pub 扩展名。 .pub 文件是你的公钥，另一个则是私钥。 如果找不到这样的文件（或者根本没有 .ssh 目录），可以通过运行 ssh-keygen（ssh-keygen -t rsa）程序来创建它们。这时可以看到生成的秘钥~/.ssh/id_rsa 和公钥 ~/.ssh/ id_rsa.pub。
+    在Github的repository中的Deploy Key设置SSH公钥。
 
-�����ǲ������裬
-1.������i,�����������仯
-2.��ʱ����������棬����Ҫ���ύ��˵��'comment',��Esc,Ȼ������:,����ܵ���������
-3.����wq֮�����س����ɣ���Ҫ�ص���ԭʼ�������н���
