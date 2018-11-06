@@ -1,0 +1,10 @@
+Avaconda https://www.continuum.io
+IDE      https://www.jetbrains.com/pycharm
+
+
+如题在命令行中输入 git commit '.'时没有加入-m，会自动出来一个让填写提交说明的窗口,输入后该如何操作
+
+以下是操作步骤，
+1.摁键盘i,最下面有所变化
+2.此时光标在最上面，输入要替提交的说明'comment',嗯Esc,然后输入:,光标跑到了最下面
+3.输入wq之后，摁回车即可，就要回到了原始的命令行界面
