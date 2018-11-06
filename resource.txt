@@ -1,3 +1,4 @@
+﻿Resource Link
 Avaconda https://www.continuum.io
 IDE      https://www.jetbrains.com/pycharm
 
