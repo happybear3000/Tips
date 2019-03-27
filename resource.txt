@@ -21,6 +21,8 @@ Git/Github使用中的一些问题：
     我们需要寻找一对以 id_dsa 或 id_rsa 命名的文件，其中一个带有 .pub 扩展名。 .pub 文件是你的公钥，另一个则是私钥。 如果找不到这样的文件（或者根本没有 .ssh 目录），可以通过运行 ssh-keygen（ssh-keygen -t rsa）程序来创建它们。这时可以看到生成的秘钥~/.ssh/id_rsa 和公钥 ~/.ssh/ id_rsa.pub。
     在Github的repository中的Deploy Key设置SSH公钥。
 
+Git 动画教学/练习
+https://learngitbranching.js.org/
 
 #####Deep Learning
 **************************************************
