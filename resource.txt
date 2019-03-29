@@ -3,7 +3,8 @@
 **************************************************
 Avaconda https://www.continuum.io
 IDE      https://www.jetbrains.com/pycharm
-
+官方中文文档
+https://docs.python.org/zh-cn/3.7/
 
 
 #####Git/Github
