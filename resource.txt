@@ -1,6 +1,7 @@
 ﻿
 #####Python
 **************************************************
+Python IDE for beginners: https://thonny.org/
 Avaconda https://www.continuum.io
 IDE      https://www.jetbrains.com/pycharm
 官方中文文档
@@ -49,8 +50,6 @@ Sorting 支持同时对比查看多个排序算法的过程
 Sorting 支持同时查看对比多个排序算法，支持前进、后退、暂停等操作，非常适合教学。
 http://sorting.at/
 
-
-
 Algomation：查看、创建和分享算法的学习平台
 官方网站：http://www.algomation.com/
 开源地址：https://github.com/algomation/apis
@@ -59,11 +58,17 @@ Algorithm Visualizer
 官方网站：http://algorithm-visualizer.org  
 开源地址：https://github.com/algorithm-visualizer/algorithm-visualizer
 
+Algorithm in Python
+https://github.com/TheAlgorithms/Python
+
 
 #####编程网站
 **************************************************
 
 http://www.jobbole.com/
+
+Data Science Project
+https://www.kaggle.com/
 
 
 #####经济
