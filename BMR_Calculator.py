@@ -9,6 +9,10 @@
      异常处理
 
 """
+
+#def BMR_CAL():
+
+
 def main():
     """
     #输入性别，体重，身高，年龄
@@ -19,7 +23,7 @@ def main():
     height = float(input('身高(cm):'))
     age = int(input('年龄:'))
     """
-    print('输入参数信息，并用空格分割')
+    print('输入BMR参数信息，并用空格分割')
     input_str = input('性别 体重(kg) 身高(cm) 年龄:')
     #字符串分割
     str_list = input_str.split(' ')
