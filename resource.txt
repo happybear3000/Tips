@@ -8,6 +8,7 @@ IDE      https://www.jetbrains.com/pycharm
 https://docs.python.org/zh-cn/3.7/
 基础教程
 https://www.runoob.com/python/python-tutorial.html
+https://www.learnpython.org/
 
 #####Git/Github
 **************************************************
