@@ -10,6 +10,11 @@ https://docs.python.org/zh-cn/3.7/
 https://www.runoob.com/python/python-tutorial.html
 https://www.learnpython.org/
 
+Python代码集锦
+https://github.com/geekcomputers/Python
+http://www.thegeekblog.co.uk
+
+
 #####Git/Github
 **************************************************
 Guide Book
@@ -38,6 +43,7 @@ Git/Github使用中的一些问题：
 
 https://github.com/scutan90/DeepLearning-500-questions
 
+https://github.com/happybear3000/Dive-into-DL-PyTorch
 
 #####Algorithm
 **************************************************
@@ -71,6 +77,10 @@ http://www.jobbole.com/
 
 Data Science Project
 https://www.kaggle.com/
+
+力扣，各类编程练习题及挑战
+https://leetcode-cn.com/
+
 
 
 #####Cloud
@@ -130,3 +140,7 @@ Ray Dalio代表作
 1. 经济如何像机器一样运行
 2. 论国家经济成败的原因
 3. 关于去杠杆化的深入理解
+
+#####博客
+**************************************************
+https://drbinliang.github.io/index.html
