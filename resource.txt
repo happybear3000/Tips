@@ -143,4 +143,7 @@ Ray Dalio代表作
 
 #####博客
 **************************************************
+大数据分析 
 https://drbinliang.github.io/index.html
+商业数据分析
+https://ask.hellobi.com/blog/chenwen
