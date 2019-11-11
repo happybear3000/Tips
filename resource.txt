@@ -95,12 +95,16 @@ https://edu.huaweicloud.com/courses/
 数据可视化
 ****************************************
 工具
+1. 东软数据可视化SaaS服务
 图表秀：在线图表和数据报告制作工具，在线数据可视化工具。
 网址：www.tubiaoxiu.com
 aCa DataViz：数据可视化分析平台，自助分析，敏捷BI，数据分析大屏定义工具。
 网址：www.idataviz.com
 UniEAP Report：企业级报表平台，专注于复杂中国式报表以及数据统计分析领域。
 网址：www.unieapreport.com
+
+2.网易数据可视化SaaS服务
+https://youdata.163.com/
 
 参考资源
 将国际统计数据转换成活动的、交互的和有趣的图表，以在线统计数据为基础的互动图表集。
