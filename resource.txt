@@ -9,6 +9,8 @@ https://docs.python.org/zh-cn/3.7/
 基础教程
 https://www.runoob.com/python/python-tutorial.html
 https://www.learnpython.org/
+书籍及相关文章资料
+https://codingpy.com/
 
 Python代码集锦
 https://github.com/geekcomputers/Python
