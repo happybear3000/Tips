@@ -1,6 +1,9 @@
-Backgroud 
-Place to explore and enjoy exploring.
+README
+====
 
-Content
-1. Code to test
-2. Source of information
+#Backgroud 
+* Place to explore and enjoy exploring.
+    
+#Content
+* Code to test
+* Source of information
