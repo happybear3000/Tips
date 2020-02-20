@@ -1,9 +1,10 @@
 README
 ====
 
-#Backgroud 
-* Place to explore and enjoy exploring.
+### Backgroud
+* Place to explore and enjoy exploring.<br/>
+        Practice makes perfect!
     
-#Content
+### Content
 * Code to test
 * Source of information
