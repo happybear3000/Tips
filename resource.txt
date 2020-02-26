@@ -1,0 +1,156 @@
+﻿
+#####Python
+**************************************************
+Python IDE for beginners: https://thonny.org/
+Avaconda https://www.continuum.io
+IDE      https://www.jetbrains.com/pycharm
+官方中文文档
+https://docs.python.org/zh-cn/3.7/
+基础教程
+https://www.runoob.com/python/python-tutorial.html
+https://www.learnpython.org/
+书籍及相关文章资料
+https://codingpy.com/
+
+Python代码集锦
+https://github.com/geekcomputers/Python
+http://www.thegeekblog.co.uk
+
+
+#####Git/Github
+**************************************************
+Guide Book
+Git 官方文档 https://git-scm.com/book/zh/v2
+Git guide chinese version: https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+--------------------------------------------------
+Git 动画教学/练习
+https://learngitbranching.js.org/
+http://onlywei.github.io/explain-git-with-d3/
+--------------------------------------------------
+Git/Github使用中的一些问题：
+一、 如题在命令行中输入 git commit '.'时没有加入-m，会自动出来一个让填写提交说明的窗口,
+     以下是解决的操作步骤，
+1.摁键盘i,最下面有所变化
+2.此时光标在最上面，输入要替提交的说明'comment',嗯Esc,然后输入:,光标跑到了最下面
+3.输入wq之后，摁回车即可，就要回到了原始的命令行界面
+
+二、git push到Github时提示permission denied，可能是需要设置SSH KEY.
+    许多 Git 服务器都使用 SSH 公钥进行认证。 为了向 Git 服务器提供 SSH 公钥，如果某系统用户尚未拥有密钥，必须事先为其生成一份。 这个过程在所有操作系统上都是相似的。 首先，你需要确认自己是否已经拥有密钥。默认情况下，用户的 SSH 密钥存储在其 ~/.ssh 目录下。
+    我们需要寻找一对以 id_dsa 或 id_rsa 命名的文件，其中一个带有 .pub 扩展名。 .pub 文件是你的公钥，另一个则是私钥。 如果找不到这样的文件（或者根本没有 .ssh 目录），可以通过运行 ssh-keygen（ssh-keygen -t rsa）程序来创建它们。这时可以看到生成的秘钥~/.ssh/id_rsa 和公钥 ~/.ssh/ id_rsa.pub。
+    在Github的repository中的Deploy Key设置SSH公钥。
+
+
+
+#####Deep Learning
+**************************************************
+
+https://github.com/scutan90/DeepLearning-500-questions
+
+https://github.com/happybear3000/Dive-into-DL-PyTorch
+
+#####Algorithm
+**************************************************
+
+旧金山大学数据结构和算法的可视化学习工具
+http://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
+VisuAlgo 通过动画学习算法和数据结构，它不仅支持暂停、单步、回退等功能，演示算法的时候，还可查看算法代码的执行过程。
+https://visualgo.net/
+
+Sorting 支持同时对比查看多个排序算法的过程
+Sorting 支持同时查看对比多个排序算法，支持前进、后退、暂停等操作，非常适合教学。
+http://sorting.at/
+
+Algomation：查看、创建和分享算法的学习平台
+官方网站：http://www.algomation.com/
+开源地址：https://github.com/algomation/apis
+
+Algorithm Visualizer
+官方网站：http://algorithm-visualizer.org  
+开源地址：https://github.com/algorithm-visualizer/algorithm-visualizer
+
+Algorithm in Python
+https://github.com/TheAlgorithms/Python
+
+
+#####编程网站
+**************************************************
+
+http://www.jobbole.com/
+
+Data Science Project
+https://www.kaggle.com/
+
+力扣，各类编程练习题及挑战
+https://leetcode-cn.com/
+
+
+
+#####Cloud
+**************************************************
+https://edu.huaweicloud.com/courses/  
+
+
+#####数据科学相关
+**************************************************
+
+****************************************
+数据可视化
+****************************************
+工具
+1. 东软数据可视化SaaS服务
+图表秀：在线图表和数据报告制作工具，在线数据可视化工具。
+网址：www.tubiaoxiu.com
+aCa DataViz：数据可视化分析平台，自助分析，敏捷BI，数据分析大屏定义工具。
+网址：www.idataviz.com
+UniEAP Report：企业级报表平台，专注于复杂中国式报表以及数据统计分析领域。
+网址：www.unieapreport.com
+
+2.网易数据可视化SaaS服务
+https://youdata.163.com/
+
+参考资源
+将国际统计数据转换成活动的、交互的和有趣的图表，以在线统计数据为基础的互动图表集。
+http://www.gapminder.org/
+注：汉斯.罗斯林（Hans Rosling）是非赢利组织gapminder的联合创始人，生命最后十年只做了一件事——传播“基于事实的世界观”（fact-based worldview，引自Gapminder官方悼词）。他留给这个世界的，是一幅幅用大数据组成的人类发展变化史，它们生动活泼地告诉我们：千万别被偏见蒙蔽了双眼。
+他参与开发了Trendalyzer数据可视化图表工具，帮助大众简单地实现数据可视化。2007年3月，Google收购了Trendalyzer 。
+2013年11月，BBC播出了一部关于全球人口增长的纪录片《不必恐慌》（《DON'T PANIC》），罗斯林在其中用大数据的方法告诉我们：世界虽然面临挑战，但是整体是变得越来越好的。视频几乎涵盖了罗斯林在过去几年所有核心观点。
+
+
+****************************************
+数据分析工具
+****************************************
+飞瓜数据，抖音等短视频生态服务平台，提供大量数据分析
+dy.feigua.cn
+
+新榜，提供微信公众号等各种新媒体排名和数据服务
+https://www.newrank.cn/
+
+抖音网红排行榜 
+toobigdata.com
+
+
+****************************************
+数据科学竞赛
+****************************************
+
+为开发商和数据科学家提供举办机器学习竞赛、托管数据库、编写和分享代码的平台。
+https://www.kaggle.com/
+
+天池大数据竞赛
+https://tianchi.aliyun.com/competition/gameList/activeList
+
+
+#####经济
+**************************************************
+Ray Dalio代表作
+1. 经济如何像机器一样运行
+2. 论国家经济成败的原因
+3. 关于去杠杆化的深入理解
+
+#####博客
+**************************************************
+大数据分析 
+https://drbinliang.github.io/index.html
+商业数据分析
+https://ask.hellobi.com/blog/chenwen
