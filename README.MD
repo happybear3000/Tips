@@ -8,7 +8,7 @@ README
 ### Content
 * Code to test
 * Source of information
-
+  * [Data Science](<#Data Science and AI competetion and resource>)
 
 
 #### Data Science and AI competetion and resource  
