@@ -11,9 +11,17 @@ README
   * [Data Science](<#### Data Science and AI competetion and resource>)
   * [Programming](<#### Programming competetion resource>)
 
-#### Data Science and AI competetion and resource  
+#### Data Science and AI competetion and course  
+
+#####Course
+|  Website                        |         Note     |
+|-----------                      |-----------           |
+|[吴恩达教授机器学习最新课程CS229](https://www.bilibili.com/video/av79827258/?spm_id_from=333.788.videocard.1)|                      |
 
 
+
+
+#####Competetion
 |  Website                        |         Note     |
 |-----------                      |-----------           |
 |[kaggle](https://www.kaggle.com/)|                      |
