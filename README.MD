@@ -10,6 +10,7 @@ README
 * Source of information
   * [Data Science](<#### Data Science and AI competetion and resource>)
   * [Programming](<#### Programming competetion resource>)
+  * [Book](<#### Book Download>)
 
 #### Data Science and AI competetion and course  
 
@@ -37,3 +38,9 @@ README
 |website    |       Note|
 |-----------|-----------|
 |[ACM online Judge](https://zoj.pintia.cn/home)| Zhe Jiang University,China|
+
+#### Book Download  
+|website    |       Note|
+|-----------|-----------|
+|[allitebooks](http://www.allitebooks.org/)| English Version|
+|[codingpy](https://codingpy.com/)| Chinese Version|
