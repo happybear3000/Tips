@@ -35,10 +35,16 @@ README
 |[Datacastle](https://www.pkbigdata.com/common/cmptIndex.html)|China|
 |[FlyAI](https://www.flyai.com/)|为AI开发者提供数据竞赛并支持GPU离线训练|
 
-#### Programming competetion resource
+#### Programming resource
 |website    |       Note|
 |-----------|-----------|
-|[ACM online Judge](https://zoj.pintia.cn/home)| Zhe Jiang University,China|
+|[ACM online Judge](https://zoj.pintia.cn/home)|competetion, Zhe Jiang University,China|
+|[Design Patterns](https://refactoring.guru/)|about refactoring, design patterns, SOLID principles, and other smart programming topics.|
+|[Pathon challenge](http://www.pythonchallenge.com/)|Pass the 33 levels of challenges|
+|[w3resource](https://www.w3resource.com)|programming tutorials and exercises with online editor|
+|[sqlbolt](https://sqlbolt.com/)|SQL tutorials and online exercise|
+
+
 
 #### Git
 |website    |       Note|
