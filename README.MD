@@ -19,7 +19,9 @@ README
 
 |  Website                        |         Note     |
 |-----------                      |-----------           |
-|[吴恩达教授机器学习最新课程CS229](https://www.bilibili.com/video/av79827258/?spm_id_from=333.788.videocard.1)|                      |
+|[吴恩达教授机器学习最新课程CS229](https://www.bilibili.com/video/av79827258/?spm_id_from=333.788.videocard.1)|                      |[MIT 18.06 Linear Algebra]（https://www.bilibili.com/video/BV1b7411f7sK?p=2)| 1806 线性代数课程|
+|[新MIT 18.065 Linear Algebra](https://www.bilibili.com/video/BV1a7411M7wH?p=2)|线性代数|机器学习（by Gilbert Strang）|
+|[MIT A 2020 Vision of Linear Algebra](https://www.bilibili.com/video/BV1BQ4y1N7Jy?p=5)|2020麻省理工学院线性代数（by Gilbert Strang）|
 
 
 
@@ -64,3 +66,8 @@ README
 |[arxiv-sanity](http://www.arxiv-sanity.com/)| Article search engine for arXiv| 
 |[allitebooks](http://www.allitebooks.org/)| Book, English Version|
 |[codingpy](https://codingpy.com/)| Python Book, Chinese Version|
+
+#### Tool  
+|website    |       Note|
+|-----------|-----------|
+|[Processon](https://processon.com/) | 在线制图|
