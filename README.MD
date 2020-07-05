@@ -47,6 +47,8 @@ README
 |[Pathon challenge](http://www.pythonchallenge.com/)|Pass the 33 levels of challenges|
 |[w3resource](https://www.w3resource.com)|programming tutorials and exercises with online editor|
 |[sqlbolt](https://sqlbolt.com/)|SQL tutorials and online exercise|
+|[usfca.edu - Algorithm visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)|Algorithm visualization|
+|[visualgo](https://visualgo.net/en)|Algorithm visualization|
 
 
 
