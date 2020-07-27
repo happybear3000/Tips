@@ -49,7 +49,8 @@ README
 |[sqlbolt](https://sqlbolt.com/)|SQL tutorials and online exercise|
 |[usfca.edu - Algorithm visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)|Algorithm visualization|
 |[visualgo](https://visualgo.net/en)|Algorithm visualization|
-
+|[newcoder牛客网](https://www.nowcoder.com/)|国内题库|
+|[leetcode](https://leetcode-cn.com/)|力扣中国|
 
 
 #### Git
