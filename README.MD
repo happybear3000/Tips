@@ -12,6 +12,7 @@ README
   * [Programming](<#### Programming competetion resource>)
   * [git](<#### git>)
   * [Reference](<#### Reference Download>)
+  * [Tool](<#### Tool>)
 
 #### Data Science and AI competetion and course  
 
@@ -38,6 +39,13 @@ README
 |[kdd-cup](https://www.kdd.org/kdd-cup)|ACM Special Interest Group on Knowledge Discovery and Data Mining|
 |[Datacastle](https://www.pkbigdata.com/common/cmptIndex.html)|China|
 |[FlyAI](https://www.flyai.com/)|为AI开发者提供数据竞赛并支持GPU离线训练|
+
+##### 数据可视化
+|  Website                        |         Note     |
+|-----------                      |-----------           |
+|[matplotlib](https://matplotlib.org/index.html)|  matplotlib官网  |
+|[图之典](http://tuzhidian.com/)|   常用可视化图形介绍及使用使用说明|
+
 
 #### Programming resource
 |website    |       Note|
