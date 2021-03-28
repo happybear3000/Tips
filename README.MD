@@ -45,6 +45,8 @@ README
 |-----------                      |-----------           |
 |[matplotlib](https://matplotlib.org/index.html)|  matplotlib官网  |
 |[图之典](http://tuzhidian.com/)|   常用可视化图形介绍及使用使用说明|
+|[highcharts](https://www.highcharts.com.cn/)|  常用可视化图形制作|
+
 
 
 #### Programming resource
