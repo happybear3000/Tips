@@ -147,3 +147,10 @@ Ray Dalio代表作
 https://drbinliang.github.io/index.html
 商业数据分析
 https://ask.hellobi.com/blog/chenwen
+
+
+#####软件系统
+**************************************************
+操作系统
+1. https://msdn.itellyou.cn/
+2. https://next.itellyou.cn/Original/Index
