@@ -24,6 +24,7 @@ README
 |[MIT 18.06 Linear Algebra](https://www.bilibili.com/video/BV1b7411f7sK?p=2)| 1806 线性代数课程|
 |[新MIT 18.065 Linear Algebra](https://www.bilibili.com/video/BV1a7411M7wH?p=2)|线性代数、机器学习（by Gilbert Strang）|
 |[MIT A 2020 Vision of Linear Algebra](https://www.bilibili.com/video/BV1BQ4y1N7Jy?p=5)|2020麻省理工学院线性代数（by Gilbert Strang）|
+|[Khan Academy-Linear algebra](https://www.khanacademy.org/math/linear-algebra))|可汗学院线性代数|
 
 
 
@@ -47,6 +48,7 @@ README
 |[图之典](http://tuzhidian.com/)|   常用可视化图形介绍及使用使用说明|
 |[highcharts](https://www.highcharts.com.cn/)|  常用可视化图形制作|
 |[花火](https://hanabi.data-viz.cn/templates?lang=zh-CN)|  在线数据短视频制作工具|
+|[ImageGP](http://www.ehbio.com/ImageGP/index.php/Home/Index/index.html)| 在线数据图表PDF制作工具|
 
 
 
@@ -62,7 +64,7 @@ README
 |[visualgo](https://visualgo.net/en)|Algorithm visualization|
 |[newcoder牛客网](https://www.nowcoder.com/)|国内题库|
 |[leetcode](https://leetcode-cn.com/)|力扣中国|
-
+|[modelscope](https://www.modelscope.cn/home)|达摩院AI模型，一键智能作画|
 
 #### Git
 |website    |       Note|
@@ -82,12 +84,16 @@ README
 |[arxiv-sanity](http://www.arxiv-sanity.com/)| Article search engine for arXiv| 
 |[allitebooks](http://www.allitebooks.org/)| Book, English Version|
 |[codingpy](https://codingpy.com/)| Python Book, Chinese Version|
+|[国家标准下载](http://www.bzmfxz.com/)| 国家标准GB/T|
 
 #### Tool  
 |website    |       Note|
 |-----------|-----------|
 |[Processon](https://processon.com/) | 在线制图|
 |[excalidraw](https://excalidraw.com/) | 在线制图-手绘风格|
+|[diagrams](https://app.diagrams.net/) | 制图工具-在线免费，离线版收费|
 |[石墨文档](https://shimo.im/welcome) | 多人实时协作的「云端 Office|
+|[pixso](https://pixso.cn/) | 协同在线设计|
+|[Canva](https://www.canva.cn/)| 在线设计|
 
 

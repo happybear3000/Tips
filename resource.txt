@@ -77,7 +77,8 @@ https://www.kaggle.com/
 力扣，各类编程练习题及挑战
 https://leetcode-cn.com/
 
-
+算法复杂度图表
+https://www.bigocheatsheet.com/
 
 #####Cloud
 **************************************************
@@ -147,3 +148,10 @@ Ray Dalio代表作
 https://drbinliang.github.io/index.html
 商业数据分析
 https://ask.hellobi.com/blog/chenwen
+
+
+#####软件系统
+**************************************************
+操作系统
+1. https://msdn.itellyou.cn/
+2. https://next.itellyou.cn/Original/Index
