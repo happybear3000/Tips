@@ -24,7 +24,7 @@ README
 |[MIT 18.06 Linear Algebra](https://www.bilibili.com/video/BV1b7411f7sK?p=2)| 1806 线性代数课程|
 |[新MIT 18.065 Linear Algebra](https://www.bilibili.com/video/BV1a7411M7wH?p=2)|线性代数、机器学习（by Gilbert Strang）|
 |[MIT A 2020 Vision of Linear Algebra](https://www.bilibili.com/video/BV1BQ4y1N7Jy?p=5)|2020麻省理工学院线性代数（by Gilbert Strang）|
-|[Khan Academy-Linear algebra](https://www.khanacademy.org/math/linear-algebra))|可汗学院线性代数|
+|[Khan Academy-Linear algebra](https://www.khanacademy.org/math/linear-algebra)|可汗学院线性代数|
 
 
 
