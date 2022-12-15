@@ -65,6 +65,8 @@ README
 |[newcoder牛客网](https://www.nowcoder.com/)|国内题库|
 |[leetcode](https://leetcode-cn.com/)|力扣中国|
 |[modelscope](https://www.modelscope.cn/home)|达摩院AI模型，一键智能作画|
+|[Github中文资料排行](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts)|Github中文开源项目资料排行|
+
 
 #### Git
 |website    |       Note|
