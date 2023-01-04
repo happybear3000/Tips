@@ -93,7 +93,8 @@ README
 |-----------|-----------|
 |[Processon](https://processon.com/) | 在线制图|
 |[excalidraw](https://excalidraw.com/) | 在线制图-手绘风格|
-|[diagrams](https://app.diagrams.net/) | 制图工具-在线免费，离线版收费|
+|[Mermaid](https://excalidraw.com/) | 在线制图-手绘风格|
+|[diagrams](https://mermaid.js.org/) | 基于JS的类markdown语法图表绘制工具，云雀、Github等工具生态均支持|
 |[石墨文档](https://shimo.im/welcome) | 多人实时协作的「云端 Office|
 |[pixso](https://pixso.cn/) | 协同在线设计|
 |[Canva](https://www.canva.cn/)| 在线设计|
